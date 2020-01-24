@@ -1,14 +1,18 @@
 import React from 'react';
-import { View, Text } from 'react-native';
+import { StatusBar } from 'react-native';
 
-// import { Container } from './styles';
+import Routes from './Routes';
 
-function App() {
-  return (
-    <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
-      <Text>Hello RMP</Text>
-    </View>
-  );
-}
+const App = () => (
+  <>
+    <StatusBar
+      barStyle='light-content'
+      backgroundColor='#82259e'
+      animated
+      hidden
+    />
+    <Routes />
+  </>
+);
 
 export default App;
