@@ -9,7 +9,8 @@
 <p 
   align="center" 
   style="margin-bottom: 30px; font-weight: bold"
->The React Native app of a clone of the <a href='https://nubank.com.br/'>Nubank</a> app interface</p>
+>The React Native app of a clone of the <a href='https://nubank.com.br/'>Nubank</a> app interface
+</p>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/LucasRMP/interfaces-nubank.svg">
@@ -26,6 +27,10 @@
   </a>
 
   <img alt="GitHub" src="https://img.shields.io/github/license/LucasRMP/interfaces-nubank.svg">
+</p>
+
+<p align='center' style="margin: 30px 0">
+  <img src="https://media.giphy.com/media/RJJgg8iEQ5yRyeRGpP/giphy.gif" alt="preview">
 </p>
 
 ## :rocket: Technologies
