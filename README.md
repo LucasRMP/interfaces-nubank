@@ -1,6 +1,6 @@
 <h2 align='center'> 
   <img 
-    src="./.git/assets/title.png" 
+    src="./git-assets/title.png" 
     alt="Nubank"
     width="200"
   >
